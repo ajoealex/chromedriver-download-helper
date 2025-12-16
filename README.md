@@ -9,6 +9,10 @@ A modern web application built with Astro.js, React, and Tailwind CSS to help yo
 - 🌐 Support for multiple operating systems (Windows, macOS, Linux)
 - 📦 Downloads both Chromium browsers and ChromeDrivers
 
+## Access the Site
+
+Click the link below to access the site: [ChromeDriver Download Helper](https://ajoealex.github.io/chromedriver-download-helper/)
+
 ## Usage
 
 1. Select the **Download Type** (Chromium Browser or Chrome Driver)
@@ -22,4 +26,3 @@ A modern web application built with Astro.js, React, and Tailwind CSS to help yo
 - This tool supports Chrome/ChromeDriver versions 115 and above
 - For versions 114 and below, visit [chromedriver.chromium.org](https://chromedriver.chromium.org/downloads)
 - Starting from Selenium 4.6, manual driver downloads are no longer necessary
-- The site can be accessed at https://ajoealex.github.io/chromedriver-download-helper/
